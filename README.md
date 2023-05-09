@@ -10,7 +10,7 @@
   - [x] 1.1. Allow User to Signup
   - [x] 1.2. Log In using username and password
   - [x] 1.3. Store userID once logged in to keep the user logged in (even after restarting the app)
-- [ ] 2. Product Listing
+- [x] 2. Product Listing
   - [ ] 2.1. List Product Categories
   - [ ] 2.2. On clicking a Category, list Products in that Category
   - [ ] 2.3. On clicking a Product, show Product description, show buy button and controls to change quantity.
